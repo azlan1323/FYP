@@ -76,3 +76,4 @@ DerivedDataCache/*
 /Content/Beautify
 /Content/DitheringShader
 Content/MultiplayerFPS/Game/LUT/PTSD_33pointLUT.uasset
+*.log
