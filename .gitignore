@@ -1,4 +1,4 @@
-# Visual Studio 2015 user specific files
+# Visual Studio user specific files
 .vs/
 
 # Compiled Object files
@@ -41,21 +41,18 @@
 *.VC.db
 *.VC.opendb
 
-# Precompiled Assets
+# Precompiled Assets (only if you really never want SourceArt tracked)
 SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
-Plugins/*/Binaries/*
+Plugins/*/Binaries/*    # adjust with !exceptions if you have binary-only plugins
 
-# Builds
-Build/*
-
-# Whitelist PakBlacklist-<BuildConfiguration>.txt files
-!Build/*/
-Build/*/**
-!Build/*/PakBlacklist*.txt
+# Builds (ignore everything except PakBlacklist*.txt)
+Build/**
+!Build/**/
+!Build/**/PakBlacklist*.txt
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
@@ -72,8 +69,18 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-/Content/GemShader
-/Content/Beautify
-/Content/DitheringShader
-Content/MultiplayerFPS/Game/LUT/PTSD_33pointLUT.uasset
+
+# Project-specific ignored content (double-check if you really want these gone)
+# /Content/GemShader
+# /Content/Beautify
+# /Content/DitheringShader
+# Content/MultiplayerFPS/Game/LUT/PTSD_33pointLUT.uasset
+
+# Logs
 *.log
+
+# Optional: editor/system junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
