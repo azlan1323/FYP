@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\playfabcommon\\module.playfabcommon.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\fyp\\intermediate\\build\\win64\\x64\\fypeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\playfabcommon\\definitions.playfabcommon.h",
+            "d:\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealeditor\\inc\\playfabcommon\\uht\\playfabauthenticationcontext.gen.cpp",
+            "d:\\fyp\\plugins\\playfabsdk\\source\\playfabcommon\\public\\playfabauthenticationcontext.h",
+            "d:\\fyp\\plugins\\playfabsdk\\source\\playfabcommon\\public\\playfabcommonsettings.h",
+            "d:\\fyp\\plugins\\playfabsdk\\source\\playfabcommon\\public\\playfabruntimesettings.h",
+            "d:\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealeditor\\inc\\playfabcommon\\uht\\playfabruntimesettings.generated.h",
+            "d:\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealeditor\\inc\\playfabcommon\\uht\\playfabauthenticationcontext.generated.h",
+            "d:\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealeditor\\inc\\playfabcommon\\uht\\playfabcommon.init.gen.cpp",
+            "d:\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealeditor\\inc\\playfabcommon\\uht\\playfabruntimesettings.gen.cpp",
+            "d:\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\playfabcommon\\permoduleinline.gen.cpp",
+            "d:\\ue_5.5\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

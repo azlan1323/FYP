@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\playfab\\module.playfab.23.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\fyp\\intermediate\\build\\win64\\x64\\fypeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\playfab\\definitions.playfab.h",
+            "d:\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealeditor\\inc\\playfab\\uht\\playfabutilities.gen.cpp",
+            "d:\\fyp\\plugins\\playfabsdk\\source\\playfab\\classes\\playfabutilities.h",
+            "d:\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealeditor\\inc\\playfab\\uht\\playfabutilities.generated.h",
+            "d:\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\playfab\\permoduleinline.gen.cpp",
+            "d:\\ue_5.5\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

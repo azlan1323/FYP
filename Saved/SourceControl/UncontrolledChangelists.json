@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal Projects/FYP_Latest/FYP/Content/BP_CustomerShop.uasset",
+				"C:/Unreal Projects/FYP_Latest/FYP/Content/UI/Shop/WBP_CustomerShop.uasset",
+				"C:/Unreal Projects/FYP_Latest/FYP/Content/UI/CustomerShop_UI/WBP_CustomerShop.uasset",
+				"C:/Unreal Projects/FYP_Latest/FYP/Content/Blueprint/Core/GameMode/BP_GI.uasset",
+				"C:/Unreal Projects/FYP_Latest/FYP/Content/Blueprint/Core/Player/BP_Player.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\playfab\\module.playfab.12.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\fyp\\intermediate\\build\\win64\\x64\\fypeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\playfab\\definitions.playfab.h",
+            "d:\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealeditor\\inc\\playfab\\uht\\playfabenums.gen.cpp",
+            "d:\\fyp\\plugins\\playfabsdk\\source\\playfab\\classes\\playfabenums.h",
+            "d:\\fyp\\plugins\\playfabsdk\\source\\playfab\\classes\\playfabjsonobject.h",
+            "d:\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealeditor\\inc\\playfab\\uht\\playfabjsonobject.generated.h",
+            "d:\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealeditor\\inc\\playfab\\uht\\playfabenums.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\source\\playfabcommon\\private\\playfabcommmonutils.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal projects\\fyp\\intermediate\\build\\win64\\x64\\fyp\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\playfabcommon\\definitions.playfabcommon.h",
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\source\\playfabcommon\\public\\playfabcommonutils.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

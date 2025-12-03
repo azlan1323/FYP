@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\fyp\\plugins\\playfabsdk\\source\\playfabcpp\\private\\core\\playfabjsonhelpers.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\fyp\\intermediate\\build\\win64\\x64\\fypeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\playfabcpp\\definitions.playfabcpp.h",
+            "d:\\fyp\\plugins\\playfabsdk\\source\\playfabcpp\\public\\core\\playfabjsonhelpers.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

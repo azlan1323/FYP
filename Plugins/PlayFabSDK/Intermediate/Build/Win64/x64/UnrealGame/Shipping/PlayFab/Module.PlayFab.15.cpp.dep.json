@@ -1,0 +1,34 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\playfab\\module.playfab.15.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal projects\\fyp\\intermediate\\build\\win64\\x64\\fyp\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\playfab\\definitions.playfab.h",
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealgame\\inc\\playfab\\uht\\playfabgroupsmodeldecoder.gen.cpp",
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\source\\playfab\\classes\\playfabgroupsmodeldecoder.h",
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\source\\playfab\\classes\\playfabenums.h",
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\source\\playfab\\classes\\playfabjsonobject.h",
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealgame\\inc\\playfab\\uht\\playfabjsonobject.generated.h",
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealgame\\inc\\playfab\\uht\\playfabenums.generated.h",
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\source\\playfab\\classes\\playfabgroupsmodels.h",
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\source\\playfab\\classes\\playfabrequestcommon.h",
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\source\\playfabcommon\\public\\playfabauthenticationcontext.h",
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\source\\playfabcommon\\public\\playfabcommonsettings.h",
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\source\\playfabcommon\\public\\playfabruntimesettings.h",
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealgame\\inc\\playfabcommon\\uht\\playfabruntimesettings.generated.h",
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealgame\\inc\\playfabcommon\\uht\\playfabauthenticationcontext.generated.h",
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealgame\\inc\\playfab\\uht\\playfabrequestcommon.generated.h",
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\source\\playfab\\classes\\playfabloginresultcommon.h",
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\source\\playfab\\classes\\playfabresultcommon.h",
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealgame\\inc\\playfab\\uht\\playfabresultcommon.generated.h",
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealgame\\inc\\playfab\\uht\\playfabloginresultcommon.generated.h",
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealgame\\inc\\playfab\\uht\\playfabgroupsmodels.generated.h",
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealgame\\inc\\playfab\\uht\\playfabgroupsmodeldecoder.generated.h",
+            "c:\\unreal projects\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealgame\\inc\\playfab\\uht\\playfabgroupsmodels.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PlayFabCpp.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"PlayFabAddonAPI.cpp.obj",
+			"PlayFabAddonDataModels.cpp.obj",
+			"PlayFabAddonInstanceAPI.cpp.obj",
+			"PlayFabAdminAPI.cpp.obj",
+			"PlayFabAdminDataModels.cpp.obj"
+		]
+	}
+}

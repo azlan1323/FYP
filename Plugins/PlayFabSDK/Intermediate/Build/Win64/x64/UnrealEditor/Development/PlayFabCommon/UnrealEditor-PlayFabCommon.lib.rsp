@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PlayFabCommon.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\FYP\Intermediate\Build\Win64\x64\FYPEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\FYP\Plugins\PlayFabSDK\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayFabCommon\Module.PlayFabCommon.cpp.obj"
+"D:\FYP\Plugins\PlayFabSDK\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayFabCommon\PlayFabCommmonUtils.cpp.obj"
+"D:\FYP\Plugins\PlayFabSDK\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayFabCommon\PlayFabCommon.cpp.obj"
+"D:\FYP\Plugins\PlayFabSDK\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayFabCommon\PlayFabCommonSettings.cpp.obj"
+"D:\FYP\Plugins\PlayFabSDK\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayFabCommon\PlayFabRuntimeSettings.cpp.obj"
+"D:\FYP\Plugins\PlayFabSDK\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayFabCommon\Default.rc2.res"
+/OUT:"D:\FYP\Plugins\PlayFabSDK\Intermediate\Build\Win64\x64\UnrealEditor\Development\PlayFabCommon\UnrealEditor-PlayFabCommon.lib"

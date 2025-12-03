@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\fyp\\plugins\\playfabsdk\\source\\playfabcpp\\private\\core\\playfabcppbasemodel.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\fyp\\intermediate\\build\\win64\\x64\\fypeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\playfabcpp\\definitions.playfabcpp.h",
+            "d:\\fyp\\plugins\\playfabsdk\\source\\playfabcpp\\public\\core\\playfabcppbasemodel.h",
+            "d:\\fyp\\plugins\\playfabsdk\\source\\playfabcommon\\public\\playfabauthenticationcontext.h",
+            "d:\\fyp\\plugins\\playfabsdk\\source\\playfabcommon\\public\\playfabcommonsettings.h",
+            "d:\\fyp\\plugins\\playfabsdk\\source\\playfabcommon\\public\\playfabruntimesettings.h",
+            "d:\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealeditor\\inc\\playfabcommon\\uht\\playfabruntimesettings.generated.h",
+            "d:\\fyp\\plugins\\playfabsdk\\intermediate\\build\\win64\\unrealeditor\\inc\\playfabcommon\\uht\\playfabauthenticationcontext.generated.h",
+            "d:\\fyp\\plugins\\playfabsdk\\source\\playfabcpp\\public\\playfab.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
